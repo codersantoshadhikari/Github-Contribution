@@ -145,7 +145,7 @@ gh pr view --web
 gh pr merge --squash
 
 
-
+----------------------
 
 ####
 # 🔥 SMAIT TECHNOLOGY | SMAIT SOFTWARE  
