@@ -145,41 +145,52 @@ gh pr view --web
 gh pr merge --squash
 
 
-# 🔥 SMAIT TECHNOLOGY | SMAIT SOFTWARE  
 
+
+####
+# 🔥 SMAIT TECHNOLOGY | SMAIT SOFTWARE  
+*Nepal's Premier Tech Innovation Hub*  
+
+---
+
+## 🏢 **Company Overview**  
 📍 **Headquarters**: Pokhara-14, Chauthe, Nepal  
 👨‍💻 **Founder & Lead Developer**: [Santosh Adhikari](https://www.linkedin.com/in/santosh-adhikari-b24324265/) (`@CoderSantoshAdhikri`)  
 
----
-
-## 🚀 **About Us**  
-**SMAIT TECHNOLOGY** (and its software division **SMAIT SOFTWARE**) is a **Nepal-based tech innovator** specializing in:  
-- **Custom Software Development** (Web, Mobile, Desktop)  
-- **AI/ML & Cloud Solutions**  
-- **DevOps & Cybersecurity**  
-- **UI/UX Design & Digital Transformation**  
-
-🔹 **Mission**: *"Delivering scalable tech solutions to empower businesses globally."*  
+### 🌐 **Core Focus Areas**  
+| Category               | Technologies/Services                          |
+|------------------------|-----------------------------------------------|
+| **Web Development**    | React, Node.js, Next.js                       |
+| **Mobile Development** | Flutter, React Native                        |
+| **AI/ML Solutions**    | Python, TensorFlow, LLMs                     |
+| **Cloud & DevOps**     | AWS, Docker, Kubernetes                      |
+| **Cybersecurity**      | Pentesting, Secure Architecture              |
 
 ---
 
-## 🌟 **Why Choose Us?**  
-✅ **Elite Team**: Led by **Santosh Adhikari**, a passionate technologist.  
-✅ **Cutting-Edge Tech**: Modern stacks (React, Node.js, Python, Flutter, AWS).  
-✅ **Client-First Approach**: Tailored, agile, and transparent workflows.  
+## 🎯 **Why SMAIT?**  
+✔ **Boutique Expertise** - Focused, high-quality deliverables  
+✔ **Modern Tech Stack** - Always updated with industry trends  
+✔ **Transparent Process** - Agile development with client collaboration  
+✔ **Cost-Effective** - Premium solutions at competitive rates  
 
 ---
 
-## 📞 **Get In Touch**  
-📧 **Emails**:  
-- **Official**: [smaittechnology@gmail.com](mailto:smaittechnology@gmail.com)  
-- **Founder**: [santoshadhikariofficial@gmail.com](mailto:santoshadhikariofficial@gmail.com)  
+## 📬 **Contact Channels**  
+### **Primary Contacts**  
+📧 **Business Inquiries**: [smaittechnology@gmail.com](mailto:smaittechnology@gmail.com)  
+📧 **Technical Consultations**: [santoshadhikariofficial@gmail.com](mailto:santoshadhikariofficial@gmail.com)  
 
-🌐 **Portfolio**: [santoshadhikari.info.np](https://santoshadhikari.info.np)  
-📱 **WhatsApp**: [+977 9745999476](https://wa.me/9779745999476)  
-💼 **LinkedIn**: [Santosh Adhikari](https://www.linkedin.com/in/santosh-adhikari-b24324265/)  
+### **Digital Presence**  
+🌍 **Portfolio**: [santoshadhikari.info.np](https://santoshadhikari.info.np)  
+💬 **WhatsApp**: [+977 9745999476](https://wa.me/9779745999476)  
+🔗 **LinkedIn**: [Connect with Santosh](https://www.linkedin.com/in/santosh-adhikari-b24324265/)  
 
 ---
 
-### 🛠 **Powered by Code, Driven by Vision**  
-© 2024 **SMAIT TECHNOLOGY** | **SMAIT SOFTWARE**  
+## 🏆 **Our Differentiators**  
+```diff
++ 100% Client-Centric Approach
++ Rapid Prototyping Capabilities
++ Cross-Platform Solution Expertise
++ Continuous Support & Maintenance
