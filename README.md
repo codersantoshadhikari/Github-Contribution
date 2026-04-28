@@ -250,7 +250,7 @@ git bisect reset                     # End bisect session
 - 📧 **Technical Consultations**: [santoshadhikariofficial@gmail.com](mailto:santoshadhikariofficial@gmail.com)  
 
 ### Digital Presence
-- 🌍 **Portfolio**: [santoshadhikari.info.np](https://santoshadhikari.info.np)  
+- 🌍 **Portfolio**: [santoshadhikari.info.np](https://santoshadhikari.com)  
 - 💬 **WhatsApp**: [+977 9745999476](https://wa.me/9779745999476)  
 - 🔗 **LinkedIn**: [Connect with Santosh](https://www.linkedin.com/in/santosh-adhikari-b24324265/)
 
